@@ -1,1 +1,85 @@
+ QR Code Generator
+
+A simple and responsive QR Code Generator built with HTML, CSS, and JavaScript.
+
+
+---
+
+🚀 Features
+
+✅ Generate QR codes in real-time
+
+✅ Clean dark-themed UI
+
+✅ Input any text or URL
+
+✅ Error handling for empty input
+
+✅ Lightweight & responsive
+
+
+---
+
+📂 Project Structure
+
+qr-code-generator/
+│── index.html   # Main HTML file  
+│── style.css    # Styling (dark theme UI)  
+│── script.js    # QR code generation logic
+
+
+---
+
+⚙️ Setup & Usage
+
+1. Clone the repository:
+
+git clone https://github.com/bhoopesh5/QR-code-generator.git
+cd qr-code-generator
+
+
+2. Open index.html in your browser.
+
+
+3. Enter text or a URL in the input box, click Generate QR, and your QR code will appear instantly.
+
+
+
+
+---
+
+📚 Technologies Used
+
+HTML5 – Structure
+
+CSS3 – Styling & layout
+
+JavaScript (QRCode.js) – QR code generation
+
+
+
+---
+
+✨ Future Improvements
+
+📥 Option to download QR code as PNG
+
+🎨 Add custom color themes
+
+📱 Improve mobile responsiveness
+
+
+
+---
+
+🤝 Contributing
+
+Pull requests are welcome! If you’d like to enhance the project, feel free to fork and submit PRs.
+
+
+---
+
+📜 License
+
+This project is open-source and available under the MIT
 
